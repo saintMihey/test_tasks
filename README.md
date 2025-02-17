@@ -1,1 +1,1 @@
-Go to (Wiki)[https://github.com/saintMihey/test_tasks/wiki].
+Go to [Wiki](https://github.com/saintMihey/test_tasks/wiki).
